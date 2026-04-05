@@ -1,4 +1,8 @@
 # -
+Baseで遊ぶ！ おみくじ＆運試し
+（10連おみくじ）
+「花札」「将棋」「寿司運試し」
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
